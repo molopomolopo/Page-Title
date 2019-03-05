@@ -1,0 +1,11 @@
+body{
+    font-family: 'Srisakdi', cursive;
+    border:20px dotted red;
+    justify-content:center;
+}
+p{
+    color:red;
+}
+h1{
+    color:red;
+}
